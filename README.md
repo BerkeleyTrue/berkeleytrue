@@ -2,7 +2,7 @@
 
 -  I'm currently working at Madison Reed creating our internal tooling and designing out our infrastructure.
 -  I'm a clojurist at heart.
-- Currently learning Web3 and Solidity smart contract development.
+- ﲹ Currently learning Web3 and Solidity smart contract development.
 
 
 [![Berkeleyture's Stats](https://github-readme-stats.vercel.app/api?username=berkeleytrue&show_icons=true&theme=dracula&count_private=true&custom_title=Berkeley's%20Stats)](https://github.com/anuraghazra/github-readme-stats)
